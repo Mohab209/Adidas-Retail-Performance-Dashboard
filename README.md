@@ -28,6 +28,8 @@ The dashboard adopts Adidas’s minimalist tone through:
 - Clear chart labeling and visual hierarchy
 - Strategic use of branded blue tones for emphasis
 - Removal of Y-axis when data labels are shown, to reduce clutter and improve focus
+- ```
 - git add C:\Users\os\OneDrive\Imagens\Screenshots\Adidas Dashboard.png
 - git commit -m "Add Dashboard to Repo"
 - git push origin main
+```
