@@ -33,7 +33,3 @@ The dashboard adopts Adidas’s minimalist tone through:
 - Clear chart labeling and visual hierarchy
 - Strategic use of branded blue tones for emphasis
 - Removal of Y-axis when data labels are shown, to reduce clutter and improve focus
-
-## 🚀 Commands to Add Dashboard
-```bash
-![Dashboard Preview](images/Adidas%20Dashboard.png)
