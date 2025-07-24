@@ -36,6 +36,6 @@ The dashboard adopts Adidas’s minimalist tone through:
 
 ## 🚀 Commands to Add Dashboard
 ```bash
-git add C:\Users\os\OneDrive\Imagens\Screenshots\Adidas Dashboard.png
+git add \Screenshots\Adidas Dashboard.png
 git commit -m "Add Dashboard to Repo"
 git push origin main
