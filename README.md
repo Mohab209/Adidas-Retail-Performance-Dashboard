@@ -35,6 +35,7 @@ The dashboard adopts Adidas’s minimalist tone through:
 - Removal of Y-axis when data labels are shown, to reduce clutter and improve focus
 ## 📊 Dashboard Preview
 
-![Adidas Dashboard Preview](Adiddas_Dashboard.png)
+![Adidas Dashboard Preview](Adidas_Dashboard.png>
+)
 
 > An interactive Excel dashboard analyzing Adidas retail data across categories, retailers, methods, and regions.
